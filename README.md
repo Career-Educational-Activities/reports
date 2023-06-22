@@ -1,3 +1,3 @@
 # Career Educational Activities reports
-- [Japanese original](https://github.com/Career-Educational-Activities/reports-en)
-- [English](https://github.com/Career-Educational-Activities/reports-jp)
+- [Japanese original](https://github.com/Career-Educational-Activities/reports-ja)
+- [English](https://github.com/Career-Educational-Activities/reports-en)
